@@ -2,6 +2,7 @@ import java.util.List;
 
 public class Employ
 {
+    //variables
     private int eid;
     private String ename;
     private double salary;
